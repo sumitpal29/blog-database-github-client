@@ -1,5 +1,5 @@
 /**
- * Type declarations for @blog-database/client
+ * Type declarations for blog-database-github-client
  */
 
 export interface BlogClientConfig {

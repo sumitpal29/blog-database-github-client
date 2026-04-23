@@ -1,4 +1,4 @@
-# @blog-database/github-client
+# blog-database-github-client
 
 A lightweight, zero-dependency SDK for reading blog content stored as JSON and Markdown files on GitHub. Works in browsers and Node.js (≥18).
 
@@ -22,13 +22,13 @@ This SDK fetches those files directly from `raw.githubusercontent.com` — no se
 ## Installation
 
 ```bash
-npm install @blog-database/github-client
+npm install blog-database-github-client
 ```
 
 ## Quick start
 
 ```js
-import { createBlogClient } from '@blog-database/github-client';
+import { createBlogClient } from 'blog-database-github-client';
 
 const client = createBlogClient({
   repo: 'your-username/your-repo',
