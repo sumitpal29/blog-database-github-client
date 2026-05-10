@@ -1,6 +1,6 @@
 {
   "name": "blog-database-github-client",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "SDK for consuming blog data from GitHub raw files",
   "main": "src/index.js",
   "types": "types/index.d.ts",
